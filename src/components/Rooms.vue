@@ -38,7 +38,7 @@
     <div class="roomListRoom__header">
         <a href="/profile/6/" class="roomListRoom__author">
             <div class="avatar avatar--small">
-                <img src="/images/avatar.svg">
+                <img src="../assets/images/avatar.svg">
             </div>
             <span>@any</span>
         </a>

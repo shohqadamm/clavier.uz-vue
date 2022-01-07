@@ -26,7 +26,7 @@
         <div class="header__user">
           <router-link to="/update-user">
             <div class="avatar avatar--medium active">
-              <img src="../assets/images/photo_2021-11-20_10-57-08.jpg" />
+              <img src="../assets/images/avatar.svg" />
             </div>
             <p>asdf <span>asdf</span></p>
           </router-link>
