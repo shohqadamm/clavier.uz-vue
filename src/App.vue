@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 <template>
 <div class="divide">
 <Header />
@@ -23,6 +24,7 @@ div.divide{
 }
 </style>
 <script>
+import '@dafcoe/vue-collapsible-panel/dist/vue-collapsible-panel.css'
 import Header from './components/Header.vue'
 import Footer from './components/Footer.vue'
 export default {
